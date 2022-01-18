@@ -6,7 +6,7 @@ I'm a commercial engineer who loves programming and marketing.
 
 - 🚀 Working on multiple backend projects using Python
 - 📚 Currently learning Angular and React framework
-- 😎 Trying to delete more code than I write
+- 😎 Trying to delete more code than what I write
 
 ## Expertise
 
