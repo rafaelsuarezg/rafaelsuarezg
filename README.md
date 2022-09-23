@@ -2,10 +2,9 @@
 ### Hi there 👋 
 
 I'm a commercial engineer who loves programming and marketing.
-> From 🇻🇪, nationalized 🇪🇸 and living in 🇨🇱
 
 - 🚀 Working on multiple backend projects using Python
-- 📚 Currently learning Angular and React framework
+- 📚 Currently learning React
 - 😎 Trying to delete more code than what I write
 
 ## Expertise
