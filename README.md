@@ -3,8 +3,7 @@
 
 I'm a commercial engineer who loves programming and marketing.
 
-- 🚀 Working on multiple backend projects using Python
-- 📚 Currently learning React
+- 🚀 Working on multiple projects 
 - 😎 Trying to delete more code than what I write
 
 ## Expertise
@@ -29,5 +28,3 @@ I'm a commercial engineer who loves programming and marketing.
 
 > Hope. It is the quintessential human delusion, simultaneously the source of your greatest strength and your greatest weakness.<br>
 > **The Architect** - ‘The Matrix Reloaded' (2003)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsuarezg&theme=solarized-dark&layout=compact)
